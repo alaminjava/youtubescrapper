@@ -1,4 +1,4 @@
-YOUR_YOUTUBE_API_KEY = "AIzaSyBscSkiLIPejmZ7b-L33rlCw6WAG2ODxvE"
+YOUR_YOUTUBE_API_KEY = ""
 
 
 YOUR_YOUTUBE_CHANNEL_ID = input("Enter your value: ")
